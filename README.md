@@ -1,19 +1,18 @@
 # Kubenetes cronjob example:
 
-Theres often a need to create cron jobs within a kubernetes pod. This is an exampleof how I did it using my local minikube cluster.
+Theres often a need to create cron jobs within a kubernetes pod. This is an example of how I did it using my local minikube cluster.
 
 # Demo
 
 ![Minikube Dashboard](/images/minikube_dashboard.png)
 
-
 # Prerequisites:
 
 You will need the following tools installed on your machine:
 
-Kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/
-Minikube - https://kubernetes.io/docs/tutorials/hello-minikube/
-Docker - https://www.docker.com/get-started
+* [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+* [Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
+* [Docker](https://www.docker.com/get-started)
 
 # Process:
 
