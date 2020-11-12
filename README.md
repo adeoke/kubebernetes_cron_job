@@ -4,7 +4,7 @@ Theres often a need to create cron jobs within a kubernetes pod. This is an exam
 
 # Demo
 
-![Minikube Dashboard](/images/images/minikube_dashboard.png)
+![Minikube Dashboard](/images/minikube_dashboard.png)
 
 
 # Prerequisites:
